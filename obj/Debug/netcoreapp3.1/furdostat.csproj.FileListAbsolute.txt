@@ -1,0 +1,14 @@
+C:\Users\katsl\OneDrive\Dokumentumok\Programozás\furdostat\bin\Debug\netcoreapp3.1\furdostat.exe
+C:\Users\katsl\OneDrive\Dokumentumok\Programozás\furdostat\bin\Debug\netcoreapp3.1\furdostat.deps.json
+C:\Users\katsl\OneDrive\Dokumentumok\Programozás\furdostat\bin\Debug\netcoreapp3.1\furdostat.runtimeconfig.json
+C:\Users\katsl\OneDrive\Dokumentumok\Programozás\furdostat\bin\Debug\netcoreapp3.1\furdostat.runtimeconfig.dev.json
+C:\Users\katsl\OneDrive\Dokumentumok\Programozás\furdostat\bin\Debug\netcoreapp3.1\furdostat.dll
+C:\Users\katsl\OneDrive\Dokumentumok\Programozás\furdostat\bin\Debug\netcoreapp3.1\furdostat.pdb
+C:\Users\katsl\OneDrive\Dokumentumok\Programozás\furdostat\obj\Debug\netcoreapp3.1\furdostat.csproj.AssemblyReference.cache
+C:\Users\katsl\OneDrive\Dokumentumok\Programozás\furdostat\obj\Debug\netcoreapp3.1\furdostat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katsl\OneDrive\Dokumentumok\Programozás\furdostat\obj\Debug\netcoreapp3.1\furdostat.AssemblyInfoInputs.cache
+C:\Users\katsl\OneDrive\Dokumentumok\Programozás\furdostat\obj\Debug\netcoreapp3.1\furdostat.AssemblyInfo.cs
+C:\Users\katsl\OneDrive\Dokumentumok\Programozás\furdostat\obj\Debug\netcoreapp3.1\furdostat.csproj.CoreCompileInputs.cache
+C:\Users\katsl\OneDrive\Dokumentumok\Programozás\furdostat\obj\Debug\netcoreapp3.1\furdostat.dll
+C:\Users\katsl\OneDrive\Dokumentumok\Programozás\furdostat\obj\Debug\netcoreapp3.1\furdostat.pdb
+C:\Users\katsl\OneDrive\Dokumentumok\Programozás\furdostat\obj\Debug\netcoreapp3.1\furdostat.genruntimeconfig.cache
